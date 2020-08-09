@@ -7,7 +7,7 @@ Simple dice game with a title that says Refresh Me that includes Player 1 dice a
 
 Deployed Website: https://rosajen27.github.io/dicegame/
 
-![dice-game](./images/Capture.JPG)
+![dice-game](./images/Capture.png)
 
 ## Built With
 
