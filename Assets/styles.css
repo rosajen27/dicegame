@@ -12,11 +12,12 @@
 
 body {
   background-color: #393E46;
+  font-family: 'Poppins', sans-serif;
 }
 
 h1 {
   margin: 30px;
-  font-family: 'Lobster', cursive;
+  font-family: 'Lobster', serif;
   text-shadow: 5px 0 #232931;
   font-size: 8rem;
   color: #4ECCA3;
@@ -25,7 +26,6 @@ h1 {
 p {
   font-size: 2rem;
   color: #4ECCA3;
-  font-family: 'Indie Flower', cursive;
 }
 
 img {
@@ -35,16 +35,22 @@ img {
 button {
   margin-top: 5%;
   padding: 20px;
-  font-weight: bold;
   background-color: #4ECCA3;
   border-radius: 10px;
-  border: 1px solid #000;
+  border: 1px solid #1f1f1f;
+  font-family: 'Poppins', sans-serif;
 }
 
 footer {
   margin-top: 5%;
   color: #EEEEEE;
   text-align: center;
-  font-family: 'Indie Flower', cursive;
+}
 
+footer p {
+  font-size: 1rem;
+}
+
+footer a {
+  color: #fff;
 }

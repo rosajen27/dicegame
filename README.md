@@ -1,35 +1,34 @@
-# Dice Game
+# 🎲 Dice Game
 
-Simple two player dice game with a title that says Roll the Dice and includes Player 1 dice and Player 2 dice. When user clicks on Roll the Dice button, then the dice will get thrown randomly, so that player 1 and player 2 both have their own dice values, and the webpage will announce a winner depending on whose dice value was higher. 
-
-Challenge made by The Complete 2020 Web Development Bootcamp by Angela Yu
+Simple two player dice game. Once the user clicks on Roll the Dice button, the dice will get thrown randomly, so that player 1 and player 2 both have their own dice values. Dice game will then announce a winner depending on whose dice value was higher. 
 
 
 ## Deployment
 
-Deployed Website: https://rosajen27.github.io/dicegame/
+Demo: https://rosajen27.github.io/dicegame/
 
 ![dice-game](./images/Capture.png)
 
+
 ## Built With
 
-  - HTML
-  - CSS
-  - JavaScript
+  * HTML
+  * CSS
+  * JavaScript
 
 ## Authors
 
-  - **Jennifer Rosa**
+  * **Jennifer Rosa**
     [Rosajen27](https://rosajen27.github.io/)
 
 
 ## License
 
-![License](https://img.shields.io/badge/license-MIT%20License-blue.svg)
+![License](https://img.shields.io/badge/license*MIT%20License-blue.svg)
 
 This project is licensed under the MIT License.
 
-Copyright (c) 2020 Jennifer Rosa
+Copyright (c) 2021 Jennifer Rosa
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -51,4 +50,4 @@ SOFTWARE.
 
 ## Acknowledgments
 
-  - The Complete 2020 Web Development Bootcamp by Angela Yu
+  * The Complete 2020 Web Development Bootcamp by Angela Yu
