@@ -7,7 +7,8 @@ Simple two player dice game. Once the user clicks on Roll the Dice button, the d
 
 Demo: https://rosajen27.github.io/dicegame/
 
-![dice-game](./images/Capture.png)
+![dice-game](./images/one.png)
+![dice-game](./images/two.png)
 
 
 ## Built With
